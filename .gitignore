@@ -1,0 +1,10 @@
+# API Keys
+.env
+
+# Python
+__pycache__/
+venv/
+*.pyc
+
+# Output
+research_output.txt
